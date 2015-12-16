@@ -1,0 +1,1 @@
+# Spreaker JS Linter
